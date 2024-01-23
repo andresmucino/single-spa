@@ -1,0 +1,2 @@
+[build]
+publish = "single-spa/page-root-config/dist"
