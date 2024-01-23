@@ -5,6 +5,6 @@
     "declarationDir": "dist"
   },
   "files": ["src/mucito-navbar.tsx"],
-  "include": ["src/**/*"],
+  "include": ["src/**/*", "node_modules/@types", "declarations.d.ts"],
   "exclude": ["src/**/*.test*"]
 }
